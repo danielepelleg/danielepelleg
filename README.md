@@ -1,8 +1,7 @@
 # Hi there!👋
 I'm **Daniele Pellegrini**, I was born in **1998** and I'm attending the third year degree at the **University of Parma** in **Computer Engineering**. 
 
-My passion through the computer world is born when I was a child: every problem I had I tried to figure it out with the help of my hp. 
-This passion continued as I grew up with the help of videogames: seeing how powerful some computer could be and the amount of problems they could solve made me looked forward to study it. From that moment I think my path has been signed, and this path bring me right there. 
+My passion through the computer world start when I was a child: every problem I had I tried to figure it out with the help of my hp. This passion continued as I grew up with the help of videogames: seeing how powerful some computer could be and the amount of problems it could be possibile to solve made me looked forward to study it. From that moment my path has been signed, and this path bring me right there. 
 
 [![danielepelleg's github stats](https://github-readme-stats.vercel.app/api?username=danielepelleg&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
