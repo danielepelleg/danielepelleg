@@ -17,7 +17,7 @@ My passion through the computer world start when I was a child: every problem I 
 ### Front end:
 * JavaScript
 * React
-* HTML5 - CS
+* HTML5 - CSS
 ### Other technologies I learnt to use during these last years:
 * Scikit-learn
 * WCF Service (.NET/C#)
