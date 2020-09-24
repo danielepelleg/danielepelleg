@@ -27,6 +27,7 @@ I'm **Daniele Pellegrini**, I was born in **1998** and I'm attending the third y
 
 # I’m currently learning 🌱 
 * Mobile Application
+
 This is something I always wanted to learn. I attended a course at the university about it, but I've never developed an entire mobile application on my own to be approved and released in the major stores. I'd want to try the right way to do it and make something useful, for me and the others.
 
 # I’m currently working on 🔭 
