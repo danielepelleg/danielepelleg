@@ -28,7 +28,7 @@ I'm **Daniele Pellegrini**, I was born in **1998** and I'm attending the third y
 # I’m currently learning 🌱 
 * Mobile Application
 
-This is something I always wanted to learn. I attended a course at the university about it, but I've never developed an entire mobile application on my own to be approved and released in the major stores. I'd want to try the right way to do it and make something useful, for me and the others.
+This is something I always wanted to learn. I attended a course at the university about it, but I've never developed an entire mobile application on my own to be approved and released in the major stores. I'd want to try the right way to do it and develop something useful, at mine and others fingertips.
 
 # I’m currently working on 🔭 
 My next work is a web app written in React which it will be released on the next weeks. I am developing it with a classmate. The application is about money management, more informations will be found on the repo once it will be public and the application hosted to be used by everyone.
