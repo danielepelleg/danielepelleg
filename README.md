@@ -35,7 +35,7 @@ My passion through the computer world start when I was a child: every problem I 
 This is something I always wanted to learn. I attended a course at the university about it, but I've never developed an entire mobile application on my own to be approved and released in the major stores. I'd want to try the right way to do it and develop something useful, at mine and others fingertips.
 
 # I’m currently working on 🔭 
-I'm currently work on for the internship in [!Maps Group S.p.A](https://mapsgroup.it/) and writing my first degree thesis. The project is about a reverse engineering work to refactor a web and mobile software to improve the queue management at the counter in the hospital facilities. More informations will be available soon once the repository will be published.
+I'm currently work on for the internship in [Maps Group S.p.A](https://mapsgroup.it/) and writing my first degree thesis. The project is about a reverse engineering work to refactor a web and mobile software to improve the queue management at the counter in the hospital facilities. More informations will be available soon once the repository will be published.
 
 # How to reach me 📫
 
