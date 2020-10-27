@@ -28,12 +28,14 @@ My passion through the computer world start when I was a child: every problem I 
 * NumPy
 
 # I’m currently learning 🌱 
-* Mobile Application
+* React Native
+* RestAPIs in Microservices Architecture (thesis)
+* LaTex (thesis)
 
 This is something I always wanted to learn. I attended a course at the university about it, but I've never developed an entire mobile application on my own to be approved and released in the major stores. I'd want to try the right way to do it and develop something useful, at mine and others fingertips.
 
 # I’m currently working on 🔭 
-My next work is a web app written in React which it will be released on the next weeks. I am developing it with a classmate. The application is about money management, more informations will be found on the repo once it will be public and the application hosted to be used by everyone.
+I'm currently work on for the internship in [!Maps Group S.p.A](https://mapsgroup.it/) and writing my first degree thesis. The project is about a reverse engineering work to refactor a web and mobile software to improve the queue management at the counter in the hospital facilities. More informations will be available soon once the repository will be published.
 
 # How to reach me 📫
 
