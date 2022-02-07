@@ -30,9 +30,9 @@ My passion through the computer world start when I was a child: every problem I 
 
 # I’m currently learning 🌱 
 * React Native
-* RestAPIs in Microservices Architecture
 * Arduino
 * Django
+* NodeJS
 
 This is something I always wanted to learn. I attended a course at the university about it, but I've never developed an entire mobile application on my own to be approved and released in the major stores. I'd want to try the right way to do it and develop something useful, at mine and others fingertips.
 
